@@ -1,6 +1,7 @@
 ![Apple Logo](https://user-images.githubusercontent.com/45048950/73131198-bca1e580-4041-11ea-8f8d-ebfd844f0e64.png) 
 
 ## iOS Display Alert
+
 Display Alert App is written in Swift language for iOS.
 
 ![iOS Display Alert](https://user-images.githubusercontent.com/45048950/73188215-7a6dc680-415d-11ea-8fe7-b73e77ac692d.gif)
@@ -9,7 +10,7 @@ Display Alert App is written in Swift language for iOS.
 
 * Xcode Editor
 
-* iOS 13.3 or latest version
+* iPhone 11 or latest version
 
 ## 🛠️ Installation
 
